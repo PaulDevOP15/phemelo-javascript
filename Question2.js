@@ -15,9 +15,9 @@ if (0) {
 }
 
 if ("") {
-  console.log('"" (empty string) is truthy');
+  console.log('"" is truthy');
 } else {
-  console.log('"" (empty string) is falsy');
+  console.log('"" is falsy');
 }
 
 if ("hello") {
